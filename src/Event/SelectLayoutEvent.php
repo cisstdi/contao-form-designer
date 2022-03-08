@@ -12,7 +12,7 @@ namespace Netzmacht\Contao\FormDesigner\Event;
 
 use Contao\Widget;
 use Netzmacht\Contao\FormDesigner\Layout\FormLayout;
-use Symfony\Component\EventDispatcher\Event;
+use Symfony\Contracts\EventDispatcher\Event;
 
 class SelectLayoutEvent extends Event
 {
