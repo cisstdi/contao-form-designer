@@ -20,7 +20,7 @@
     "ext-dom": "*",
     "contao-community-alliance/meta-palettes": "^2.0 || ^1.11",
     "contao/core-bundle": "^4.9",
-    "doctrine/dbal": "^2.5",
+    "doctrine/dbal": "^2.5 || ^3",
     "menatwork/contao-multicolumnwizard-bundle": "^3.5.0",
     "netzmacht/html": "^2.0.2",
     "psr/log": "^1.0",
